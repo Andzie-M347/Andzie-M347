@@ -1,5 +1,5 @@
-### Hi there 👋,  
-![](https://andziemabaso.co.za/signature/github/github-banner.svg)
+### Hi world 👋,  
+![](https://andziemabaso.co.za/signature/github/github-banner.jpg)
 
 I am a Creative Front-end developer with 3+ years of experience. I really JavaScript and everything in Javascript! I also have a strong interest in Data Science, UI, and UX design.
 

@@ -1,12 +1,13 @@
 ### Hi world 👋,  
 ![](https://andziemabaso.co.za/signature/github/github-banner.jpg)
 
-I am a Creative Front-end developer with 3+ years of experience. I really JavaScript and everything in Javascript! I also have a strong interest in Data Science, UI, and UX design.
+I am a Creative Front-end developer with 3+ years of experience. I love JavaScript and everything Javascript! I also have a strong interest in Data Science, UI, and UX design.
 
 - 🔭 I’m currently working on React  
 - 🌱 I’m currently learning TypeScript 
 - 👯 I’m looking to collaborate on Frontend Tech 
 - 📫 How to reach me: dev@andziemabaso.co.za 
+- ⚡ Fun fact: I play guitar and I'm a huge anime fan  
 
 
 ### Connect with me:

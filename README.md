@@ -1,4 +1,4 @@
-### Hi world 👋,  
+### Hello world 👋,  
 ![](https://andziemabaso.co.za/signature/github/github-banner.jpg)
 
 I am a Creative Front-end developer with 3+ years of experience. I love JavaScript and everything Javascript! I also have a strong interest in Data Science, UI, and UX design.
@@ -18,20 +18,19 @@ I am a Creative Front-end developer with 3+ years of experience. I love JavaScri
 ### Languages and Tools:
 
 
-[<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
-[<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
-[<img align="left" alt="CSS3" width="32px" src="https://andziemabaso.co.za/signature/github/nextjs.css3.svg" />]()
-[<img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]()
-[<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]()
-[<img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]()
+
+[<img align="left" alt="HTML5" width="32px" src="https://andziemabaso.co.za/signature/github/html.svg" />]()
+[<img align="left" alt="CSS3" width="32px" src="https://andziemabaso.co.za/signature/github/css3.svg" />]()
+[<img align="left" alt="Sass" width="32px" src="https://andziemabaso.co.za/signature/github/sass.svg" />]()
+[<img align="left" alt="JavaScript" width="32px" src="https://andziemabaso.co.za/signature/github/js.svg" />]()
+[<img align="left" alt="React" width="32px" src="https://andziemabaso.co.za/signature/github/react.svg" />]()
 [<img align="left" alt="Redux" width="32px" src="https://andziemabaso.co.za/signature/github/redux.svg" />]()
-[<img align="left" alt="Redux" width="32px" src="https://andziemabaso.co.za/signature/github/nextjs.svg" />]()
+[<img align="left" alt="Next" width="32px" src="https://andziemabaso.co.za/signature/github/nextjs.svg" />]()
 [<img align="left" alt="Bootstrap" width="32px" src="https://andziemabaso.co.za/signature/github/bootstrap.svg" />]()
-[<img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]()
+[<img align="left" alt="MySQL" width="32px" src="https://andziemabaso.co.za/signature/github/sql.svg" />]()
 [<img align="left" alt="Bash" width="32px" src="https://andziemabaso.co.za/signature/github/bash.svg" />]()
 [<img align="left" alt="Figma" width="32px" src="https://andziemabaso.co.za/signature/github/figma.svg" />]()
-[<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]()
-[<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
+
 
 <br />
 <br />

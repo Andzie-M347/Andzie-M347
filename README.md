@@ -27,7 +27,7 @@ I am a Creative Front-end developer with 3+ years of experience. <br /> I love J
 [<img align="left" alt="MySQL" width="32px" src="https://andziemabaso.co.za/signature/github/sql.svg" />]() 
 [<img align="left" alt="Bash" width="32px" src="https://andziemabaso.co.za/signature/github/bash.svg" />]()
 [<img align="left" alt="Figma" width="32px" src="https://andziemabaso.co.za/signature/github/figma.svg" />]()
-
+[<img align="left" alt="Python" width="32px" src="https://andziemabaso.co.za/signature/github/python.svg" />]()
 
 <br />
 <br />

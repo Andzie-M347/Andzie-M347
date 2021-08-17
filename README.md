@@ -1,7 +1,7 @@
 ### Hello world 👋,  
-![](https://andziemabaso.co.za/signature/github/github-banner.svg)
+![](https://andziemabaso.co.za/signature/github/github-banner.jpg)
 
-I am a Creative Front-end developer with 3+ years of experience. I love JavaScript and everything Javascript! <br /> I also have a strong interest in Data Science, UI, and UX design.
+I am a Creative Front-end developer with 3+ years of experience. <br /> I love JavaScript and everything Javascript! <br /> I also have a strong interest in Data Science, UI, and UX design.
 
 - 🔭 I’m currently working on React  
 - 🌱 I’m currently learning TypeScript 

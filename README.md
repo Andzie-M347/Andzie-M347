@@ -26,8 +26,8 @@ I am a Creative Front-end developer with 3+ years of experience. <br /> I love J
 [<img align="left" alt="React" width="32px" src="https://andziemabaso.co.za/signature/github/react.svg" />]()
 [<img align="left" alt="Redux" width="32px" src="https://andziemabaso.co.za/signature/github/redux.svg" />]()
 [<img align="left" alt="Next" width="32px" src="https://andziemabaso.co.za/signature/github/nextjs.svg" />]()
-[<img align="left" alt="Bootstrap" width="32px" src="https://andziemabaso.co.za/signature/github/bootstrap.svg" />]()
-[<img align="left" alt="MySQL" width="32px" src="https://andziemabaso.co.za/signature/github/sql.svg" />]()
+[<img align="left" alt="Webpack" width="32px" src="https://andziemabaso.co.za/signature/github/webpack.svg" />]()
+[<img align="left" alt="MySQL" width="32px" src="https://andziemabaso.co.za/signature/github/sql.svg" />]() <br />
 [<img align="left" alt="Bash" width="32px" src="https://andziemabaso.co.za/signature/github/bash.svg" />]()
 [<img align="left" alt="Figma" width="32px" src="https://andziemabaso.co.za/signature/github/figma.svg" />]()
 

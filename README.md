@@ -18,7 +18,7 @@ I am a Creative Front-end developer with 3+ years of experience. <br /> I love J
 ### Languages and Tools:
 
 [<img align="left" alt="HTML5" width="32px" src="https://andziemabaso.co.za/signature/github/html.svg" />]()
-[<img align="left" alt="CSS3" width="32px" src="https://andziemabaso.co.za/signature/github/css3.svg" />]()
+[<img align="left" alt="CSS3" width="32px" src="https://andziemabaso.co.za/signature/github/html.svg" />]()
 [<img align="left" alt="Sass" width="32px" src="https://andziemabaso.co.za/signature/github/sass.svg" />]()
 [<img align="left" alt="JavaScript" width="32px" src="https://andziemabaso.co.za/signature/github/js.svg" />]()
 [<img align="left" alt="React" width="32px" src="https://andziemabaso.co.za/signature/github/react.svg" />]()

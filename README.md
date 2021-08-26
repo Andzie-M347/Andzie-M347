@@ -42,6 +42,13 @@ I am a Creative Front-end developer with 3+ years of experience. <br /> I love J
       </a>
       <br>Bootstrap
     </td>
+     </td>
+          <td align="center" width="96"> 
+      <a href="javascript:void(0)" >
+        <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
+      </a>
+      <br>Next JS
+    </td>
   </tr>
   
   <tr>
@@ -106,13 +113,6 @@ I am a Creative Front-end developer with 3+ years of experience. <br /> I love J
         <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
       </a>
       <br>Redux
-    </td>
-          <td align="center" width="96"> 
-      <a href="javascript:void(0)" >
-        <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
-      </a>
-      <br>Next JS
-    </td>
   </tr>
     
 </table>

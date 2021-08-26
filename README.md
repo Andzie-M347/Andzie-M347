@@ -16,7 +16,7 @@ I am a Creative Front-end developer with 3+ years of experience. <br /> I love J
 <br />
 
 ### Languages and Tools:
-<table align="center">
+<table align="left">
   <tr>
     <td align="center" width="96">
       <a href="javascript:void(0)">
@@ -117,8 +117,6 @@ I am a Creative Front-end developer with 3+ years of experience. <br /> I love J
     
 </table>
 
-<br />
-<br />
 
 ---
 

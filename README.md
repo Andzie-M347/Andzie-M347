@@ -1,7 +1,7 @@
 ### Hello world 👋,  
 <!-- ![](https://andziemabaso.co.za/signature/github/github-banner.jpg) -->
 
-I am a Creative Front-end developer with 3+ years of experience. <br /> I love JavaScript and everything Javascript! I enjoy exploring new technologies <br /> and solving real world problems. I also have a strong interest in AI, Robotics & ML.
+I am a creative Front-end developer with 3+ years of experience. <br /> I love JavaScript and everything Javascript! I enjoy exploring new technologies <br /> and solving real world problems. I also have a strong interest in AI, Robotics & ML.
 
 - 🔭 I’m currently working on JavaScript, React, Redux, && NextJS  
 - 🌱 I’m currently learning TypeScript 

@@ -120,7 +120,4 @@ I am a creative Front-end developer with 3+ years of experience. <br /> I love J
 
 ---
 
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=andzie-m347)  
-
 ![Profile views](https://gpvc.arturio.dev/andzie-m347) 

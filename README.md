@@ -3,9 +3,9 @@
 
 I'm a dynamic Developer with over 4 years in the tech field, passionate about the intricacies of JavaScript and all things related. I thrive on delving into cutting-edge technologies to tackle real-world challenges. My expertise extends to AI, Robotics, and ML, and I bring over a year of hands-on experience with Salesforce to the table. Let's code the future together!
 
-- 🔭 I’m currently working on JavaScript, React, Redux, && NextJS  
-- 🌱 I’m currently learning TypeScript 
-- 👯 I’m looking to collaborate on Frontend Tech 
+- 🔭 I’m currently working on JavaScript, Lightning Web Components (Within Salesforce Experience Cloud), Salesforce, Design Systems & SASS.  
+- 🌱 I’m currently learning the Apex language 
+- 👯 I’m looking to collaborate on Frontend Tech & Salesforce
 - 📫 How to reach me: dev@andziemabaso.co.za 
 - ⚡ Fun fact: I play guitar && drums. I game a lot and && a huge anime fan  
 

@@ -1,7 +1,7 @@
 ### Hello world 👋,  
 <!-- ![](https://andziemabaso.co.za/signature/github/github-banner.jpg) -->
 
-I'm a dynamic Developer with over 4 years in the tech field, passionate about the intricacies of JavaScript and all things related. I thrive on delving into cutting-edge technologies to tackle real-world challenges. My expertise extends to AI, Robotics, and ML, and I bring over a year of hands-on experience with Salesforce to the table. Let's code the future together!
+I'm a dynamic Developer with over 5 years in the tech field, passionate about the intricacies of JavaScript and all things related. I thrive on delving into cutting-edge technologies to tackle real-world challenges. My expertise extends to AI, Robotics, and ML, and I bring over a year of hands-on experience with Salesforce to the table. Let's code the future together!
 
 - 🔭 I’m currently working on JavaScript, Lightning Web Components (Within Salesforce Experience Cloud), Salesforce, Design Systems & SASS.  
 - 🌱 I’m currently learning the Apex language 
